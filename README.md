@@ -1,1 +1,1 @@
-# test
+Veri Madenciliği ile ilgili örnekler
